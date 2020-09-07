@@ -1,0 +1,70 @@
+.republique {
+  text-align: center;
+}
+
+.logos {
+  width: 100%;
+  text-align: center;
+  height: 300px;
+}
+
+.logo1 {
+  width: 33.33333%;
+  float: left;
+}
+
+.logo2 {
+  width: 33.33333%;
+  float: right;
+}
+
+.logo3 {
+  width: 33.33333%;
+  float: right;
+  padding-top: 50px;
+}
+
+.red {
+  color: red;
+}
+
+.container {
+  width: 80%;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.heading {
+  text-align: center;
+  margin-bottom: 80px;
+}
+
+.under-heading {
+  margin-bottom: 200px;
+}
+
+.timbre {
+  width: 10%;
+  margin-top: -100px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.signature {
+  margin-top: 50px;
+  width: 95%;
+  text-align: right;
+  margin-bottom: 50px;
+}
+
+footer {
+  width: 100%;
+  text-align: center;
+}
+
+hr {
+  width: 90%;
+}
